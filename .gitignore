@@ -72,9 +72,12 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+
+# Ignore Third Party Files for wwise
+/Plugins/Wwise/ThirdParty/*
+
 # Don't ignore plugin Files for wwise
 /.cache
-Plugins/Wwise/ThirdParty/Mac**
 *.prof
 .idea
 
