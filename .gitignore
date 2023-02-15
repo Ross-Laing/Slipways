@@ -74,7 +74,7 @@ DerivedDataCache/*
 
 
 # Ignore Third Party Files for wwise
-/Plugins/Wwise/ThirdParty/*
+Plugins/Wwise/ThirdParty/*
 
 # Don't ignore plugin Files for wwise
 /.cache
